@@ -1,3 +1,3 @@
-# Breakout-On-Steroids
+# atari-breakout-with-powerups
 
-Just run and play it.
+Highschool's intro class final project: a java version of atari's breakout with fun powerups.
